@@ -15,5 +15,3 @@ jobs:
         run: "npm i"
       - name: "Build"
         run: "npm run build"
-      - name: "Finished"
-        run: echo "Completed"
